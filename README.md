@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
-
 ## Overview
+The purpose of this project is to utilize unsupervised machine learning to analyze a database of cryptocurrencies. We will then create a report that includes traded cryptocurrencies. The investment bank, Accountability Accounting, wants to use this report to propose a new cryptocurrency investment portfolio to its clients.
 
 ## Results
 
