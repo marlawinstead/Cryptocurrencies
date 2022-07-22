@@ -13,4 +13,3 @@ The elbow curve below using the K-Means method iterating on k values from 1 to 1
 
 2D-Scatter plot with clusters <br>
 <img width="728" alt="TradeableCryptocurrencies" src="https://user-images.githubusercontent.com/100978922/180571923-ca8a14de-fa9c-4637-84a0-b989940da90a.png">
-
